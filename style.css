@@ -69,7 +69,11 @@ body {
 }
 
 .home-icon-img {
+<<<<<<< HEAD
     margin-bottom: 4px;
+=======
+    margin-bottom: 8px;
+>>>>>>> bb5da659b2a2e578355656291b94f9ec9cbe60f7
     width: 22px;
     height: 22px;
     object-fit: contain;
@@ -283,7 +287,12 @@ body {
     font-weight: 700;
     text-decoration: underline;
     font-size: 12.5px;
+<<<<<<< HEAD
     margin-left: -35px;
+=======
+    margin-top: 9px;
+    margin-left: -27px;
+>>>>>>> bb5da659b2a2e578355656291b94f9ec9cbe60f7
 }
 
 .info-form {
